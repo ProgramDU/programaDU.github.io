@@ -1,0 +1,3 @@
+const saludo=()=>{
+    alertS("hola");
+}
